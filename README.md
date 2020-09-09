@@ -1,6 +1,6 @@
 # Machine Learning with Scikit-Learn
 
-* SWFC ML(2020.08), DM(2020.09)
+* SWFC ML(2020.08), DM(2020.09) - visualization
 * 삼성전자 기술연구소, 2020-07, 3주
 * python, numpy, pandas 간단 복습
 * 데이터 전처리 - 수치형, 범주형, 이상치, 결측치, Trainset/TestSet, Pipeline
